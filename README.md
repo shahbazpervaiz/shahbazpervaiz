@@ -28,40 +28,20 @@ I’m passionate about **solving complex problems**, **automating workflows**, a
 
 🧰 Tech Stack  
 
-<p align="center">
-  <b>💻 Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css,mysql" height="50" />
-</p>
+**💻 Languages:**  
+`JavaScript` `Python` `C++` `C` `HTML` `CSS` `SQL`
 
-<p align="center">
-  <b>⚙️ Frameworks & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,docker,figma" height="50" />
-</p>
+**🧠 Frameworks & Tools:**  
+`React` `Node.js` `Express` `MongoDB` `MySQL` `Git` `Docker` `Figma`  
 
-<p align="center">
-  <b>☁️ Cloud & DevOps</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" height="50" />
-  <br/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge&logo=githubactions&logoColor=white" height="30" />
-</p>
+**☁️ Cloud & DevOps:**  
+`AWS (EC2, S3, Lambda, CloudFormation)` `Kubernetes` `Jenkins` `Linux`  
 
-<p align="center">
-  <b>🔒 Cybersecurity Tools</b><br/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Nmap-004A80?style=for-the-badge&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Metasploit-2E7D32?style=for-the-badge&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="30" />
-</p>
+**🔒 Cybersecurity Tools:**  
+`Wireshark` `Burp Suite` `Nmap` `Metasploit` `Kali Linux`
 
-<p align="center">
-  <b>🔌 Hardware & Electronics</b><br/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=espressif&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/IoT%20Sensors-00C7FF?style=for-the-badge&logo=internetofthings&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/PCB%20Design-0A84FF?style=for-the-badge&logo=autocad&logoColor=white" height="30" />
-</p>
+**🔌 Hardware & Electronics:**  
+`Arduino` `Raspberry Pi` `ESP32` `IoT Sensors` `PCB Design`
 
 
 
