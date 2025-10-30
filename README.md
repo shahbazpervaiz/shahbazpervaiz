@@ -16,13 +16,20 @@ I’m passionate about **solving complex problems**, **automating workflows**, a
 🧠 What I’m Into
 
 🕵️ **Cybersecurity** — Pen-testing, encryption, and secure architectures  
+
 ☁️ **AWS Cloud Engineering** — EC2, S3, Lambda, VPCs, CloudFormation, and deployment automation  
+
 🔁 **DevOps** — CI/CD, containerization, and cloud-based infrastructure management  
+
 💻 **Software Development** — Building clean, efficient, and impactful solutions  
+
 🎨 **Front-End Development** — Responsive UIs, animation, and user-centric design  
-⚙️ **Back-End Development** — RESTful APIs, databases, authentication, and performance tuning  
+
+⚙️ **Back-End Development** — RESTful APIs, databases, authentication, and performance tuning
+
 🧩 **System Design** — Designing scalable and distributed systems  
-🔌 **Electronics & Hardware** — Circuit design, microcontrollers, and embedded projects  
+
+👨‍🔧 **Electronics & Hardware** — Circuit design, microcontrollers, and embedded projects  
 
 
 
