@@ -26,22 +26,48 @@ I’m passionate about **solving complex problems**, **automating workflows**, a
 
 
 
-🧰 Tech Stack
+🧰 Tech Stack  
 
-**Languages:**  
-`JavaScript` `Python` `C++` `C` `HTML` `CSS` `SQL`
+<div align="center" style="background-color:#0d1117; padding:25px; border-radius:15px; box-shadow:0 0 20px #00c7ff;">
+  
+  <h3>💻 <span style="color:#00C7FF;">Languages</span></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css,mysql" height="50" />
+  </p>
 
-**Frameworks & Tools:**  
-`React` `Node.js` `Express` `MongoDB` `MySQL` `Docker` `Git` `Figma`
+  <h3>⚙️ <span style="color:#00C7FF;">Frameworks & Tools</span></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,docker,figma" height="50" />
+  </p>
 
-**Cloud & DevOps:**  
-`AWS (EC2, S3, Lambda, CloudFormation)` `Docker` `Kubernetes` `Jenkins` `CI/CD Pipelines` `Linux`
+  <h3>☁️ <span style="color:#00C7FF;">Cloud & DevOps</span></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,jenkins,linux" height="50" />
+    <br/>
+    <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-1E90FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30" />
+  </p>
 
-**Cybersecurity Tools:**  
-`Wireshark` `Burp Suite` `Nmap` `Metasploit` `Kali Linux`
+  <h3>🔒 <span style="color:#00C7FF;">Cybersecurity Tools</span></h3>
+  <p>
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Nmap-004A80?style=for-the-badge&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Metasploit-2E7D32?style=for-the-badge&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="30" />
+  </p>
 
-**Hardware:**  
-`Arduino` `Raspberry Pi` `ESP32` `IoT Sensors` `PCB Design`
+  <h3>🔌 <span style="color:#00C7FF;">Hardware & Electronics</span></h3>
+  <p>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=espressif&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/IoT%20Sensors-00C7FF?style=for-the-badge&logo=internetofthings&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/PCB%20Design-0A84FF?style=for-the-badge&logo=autocad&logoColor=white" height="30" />
+  </p>
+
+  <br/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+</div>
 
 
 
