@@ -47,7 +47,7 @@ I’m passionate about **solving complex problems**, **automating workflows**, a
 
 ⚡ Fun Fact
 
-I love exploring where **software meets hardware and the cloud** — blending **security, automation, and design** to build next-gen systems 🌐⚡
+I love exploring where **software meets hardware and the cloud** — blending **security, automation, and design** to build next-gen systems 🌐
 
 
 
