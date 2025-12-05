@@ -29,7 +29,7 @@ I’m passionate about **solving complex problems**, **automating workflows**, a
 🧰 Tech Stack  
 
 **💻 Languages:**  
-`JavaScript` `Python` `C++` `C` `HTML` `CSS` `SQL`
+`JavaScript` `Python` `C#` `HTML` `CSS` `SQL`
 
 **🧠 Frameworks & Tools:**  
 `React` `Node.js` `Express` `MongoDB` `MySQL` `Git` `Docker` `Figma`  
