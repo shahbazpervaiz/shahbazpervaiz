@@ -15,7 +15,7 @@ I’m passionate about **solving complex problems**, **automating workflows**, a
 
 🧠 What I’m Into
 
-🕵️ **Cybersecurity** — Pen-testing, encryption, and secure architectures  
+🕵️ **Cybersecurity** — Pentesting, encryption, and secure architectures  
 ☁️ **AWS Cloud Engineering** — EC2, S3, Lambda, VPCs, CloudFormation, and deployment automation  
 🔁 **DevOps** — CI/CD, containerization, and cloud-based infrastructure management  
 💻 **Software Development** — Building clean, efficient, and impactful solutions  
