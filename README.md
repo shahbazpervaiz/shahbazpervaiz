@@ -1,6 +1,6 @@
 👋 Hey there, I'm Shahbaz!
 
-🚀 ** Cloud & DevOps Engineer | System Designer | Electronics Nerd**
+🚀 **Cloud & DevOps Engineer | System Designer | Electronics Nerd**
 
 
 
