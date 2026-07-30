@@ -1,6 +1,6 @@
 👋 Hey there, I'm Shahbaz!
 
-🚀 **Cybersecurity Enthusiast | Full Stack Developer | Cloud & DevOps Engineer | System Designer | Electronics Nerd**
+🚀 ** Cloud & DevOps Engineer | System Designer | Electronics Nerd**
 
 
 
@@ -14,8 +14,7 @@ I’m passionate about **solving complex problems**, **automating workflows**, a
 
 
 🧠 What I’m Into
-
-🕵️ **Cybersecurity** — Pentesting, encryption, and secure architectures  
+  
 ☁️ **AWS Cloud Engineering** — EC2, S3, Lambda, VPCs, CloudFormation, and deployment automation  
 🔁 **DevOps** — CI/CD, containerization, and cloud-based infrastructure management  
 💻 **Software Development** — Building clean, efficient, and impactful solutions  
